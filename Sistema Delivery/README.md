@@ -40,5 +40,7 @@ I also work as a **FULL STACK DEVELOPER** freelancer, if you have a project, thi
 
 ## My contacts
 **Portfólio:** https://fabianobasso.github.io/
+
 **Linkedin:** https://www.linkedin.com/in/fabiano-basso
+
 **Whatsapp:** [Send Message](https://api.whatsapp.com/send?phone=5519999979098)
