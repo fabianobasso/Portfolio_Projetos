@@ -22,8 +22,9 @@ Sistema construído em node.js usando express com engine ejs, as demais tecnolog
 
 ## Imagens
 **Uma prévia da dashboard do sistema**
-<img src="./previa.png">
-
+<br>
+<img src="./previa.png" align="center">
+<br>
 Caso tenha algum interesse nesse projeto por favor entre em contato, meus contatos estão logo abaixo.
 
 ---
